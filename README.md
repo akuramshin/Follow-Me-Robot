@@ -11,9 +11,9 @@ Usefull links I used to put together this project:
   - http://forum.arduino.cc/index.php?topic=91707.0
 
 For this project I used:
-    - AndyMark Tilerunner robot. Really any sort of robot will do.
-    - Arduino Uno to controll the robot. The Arduino Uno is very cheap (especially the clones) and has all the capabilities required for         the project.
-    - 2 vex pro victor 888 motor controllers. I only used these controllers because I had them lying around and they only require 1 PWN         pin to operate a motor (compared to 1 PWN and 2 other pins for an L298 controller). I do not recommend these controllers for this         particular project as they are really bulky.
-    - The GPS reciever I used for the robot is the EM-506 (48 Channel). This reciever is quite pricey and the connector is too small for         jumper wires to fit, so I had to cut off the end and solder jumper wires to each connection individually. Nevertheless, the reciever       proved to lock on fast even indoors and is quite accurate.
-    - I used the Wireless 4 Pin Bluetooth RF Transceiver Module RS232 With Backplane as the bluetooth module for my robot.
-    - 
+  - AndyMark Tilerunner robot. Really any sort of robot will do.
+  - Arduino Uno to controll the robot. The Arduino Uno is very cheap (especially the clones) and has all the capabilities required for         the project.
+  - 2 vex pro victor 888 motor controllers. I only used these controllers because I had them lying around and they only require 1 PWN         pin to operate a motor (compared to 1 PWN and 2 other pins for an L298 controller). I do not recommend these controllers for this         particular project as they are really bulky.
+  - The GPS reciever I used for the robot is the EM-506 (48 Channel). This reciever is quite pricey and the connector is too small for         jumper wires to fit, so I had to cut off the end and solder jumper wires to each connection individually. Nevertheless, the reciever       proved to lock on fast even indoors and is quite accurate.
+  - I used the Wireless 4 Pin Bluetooth RF Transceiver Module RS232 With Backplane as the bluetooth module for my robot.
+    
