@@ -16,4 +16,7 @@ For this project I used:
   - 2 vex pro victor 888 motor controllers. I only used these controllers because I had them lying around and they only require 1 PWN         pin to operate a motor (compared to 1 PWN and 2 other pins for an L298 controller). I do not recommend these controllers for this         particular project as they are really bulky.
   - The GPS reciever I used for the robot is the EM-506 (48 Channel). This reciever is quite pricey and the connector is too small for         jumper wires to fit, so I had to cut off the end and solder jumper wires to each connection individually. Nevertheless, the reciever       proved to lock on fast even indoors and is quite accurate.
   - I used the Wireless 4 Pin Bluetooth RF Transceiver Module RS232 With Backplane as the bluetooth module for my robot.
+  - For the compass I bought the Triple-axis Accelerometer+Magnetometer (Compass) Board - LSM303. This module includes both and               accelerometer and magnetometer, but I only used the magnetometer pins from the board.
+  - As the power source for my motors I used the AJC® Brand 12 Volt 7Ah Sealed Lead Acid Battery. This battery is quite large due to its       large capacity and is a bit overkill, but I had it available and it fit on my robot chassis.
+  - To power the arduino I used a portable battery bank, like the one you can use to charge your phone.
     
