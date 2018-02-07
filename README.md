@@ -1,6 +1,6 @@
 # Follow-Me-Robot
 
-This is a senior highschool project for an autonomous robot that will follow you (more your position) upon the click of a button. The main idea is that the user will have a smart-phone that will send its GPS coordinates over bluetooth to the robot, who will, with the use of a compas and a GPS module, drive to the received coordinates.
+This is a senior highschool project for an autonomous robot that will follow you (more your position) upon the click of a button. The main idea is that the user will have a smart-phone that will send its GPS coordinates over bluetooth to the robot, who will, with the use of a compas and a GPS module, drive to the received coordinates. 
 
 Room for improvement would be to implement a way to make a constant stream of GPS coordinates to the robot (currently we send coordinates only when the button is pressed). Additionally, the robot has no knowledge of its surrounding so it will not avoid obstacles.
 
@@ -19,4 +19,6 @@ For this project I used:
   - For the compass I bought the Triple-axis Accelerometer+Magnetometer (Compass) Board - LSM303. This module includes both and               accelerometer and magnetometer, but I only used the magnetometer pins from the board.
   - As the power source for my motors I used the AJC® Brand 12 Volt 7Ah Sealed Lead Acid Battery. This battery is quite large due to its       large capacity and is a bit overkill, but I had it available and it fit on my robot chassis.
   - To power the arduino I used a portable battery bank, like the one you can use to charge your phone.
+  - I used an Android phone to run my app since I coded the app in Android Studios. The newer the phone, the better the GPS coordinates       provided by the phone will be.
     
+The Defenitions.h file is where I defined all of my pins so change the values accordingly.
