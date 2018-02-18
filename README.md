@@ -21,4 +21,4 @@ For this project I used:
   - To power the arduino I used a portable battery bank, like the one you can use to charge your phone.
   - I used an Android phone to run my app since I coded the app in Android Studios. The newer the phone, the better the GPS coordinates       provided by the phone will be.
     
-The Defenitions.h file is where I defined all of my pins so change the values accordingly.
+The Defenitions.h file is where I defined all of my pins so change the values accordingly. The zipped file is the Android studio project that you can open and use.
